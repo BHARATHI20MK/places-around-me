@@ -34,6 +34,7 @@ Execute the programs and publish them.
   <area alt="zygote" title="zygote" href="zygote.html" coords="431,369,432,370" shape="rect">
   <area alt="thiravina" title="thiravina" href="thiravina.html" coords="431,369,432,370" shape="rect">
 </map>
+
 SJC.html      
     </body>
 </html>
@@ -50,6 +51,7 @@ SJC.html
         </h1>
     </body>
 </html>
+
 teatimew.html
 <!DOCTYPE html>
 <html>
@@ -64,6 +66,7 @@ teatimew.html
         </h1>
     </body>
 </html>
+
 thiravina.html
 <!DOCTYPE html>
 <html>
@@ -78,6 +81,7 @@ thiravina.html
         </h1>
     </body>
 </html>
+
 tvm.html
 <!DOCTYPE html>
 <html>
@@ -92,6 +96,7 @@ tvm.html
         </h1>
     </body>
 </html>
+
 zygote.html
 !DOCTYPE html>
 <html>
